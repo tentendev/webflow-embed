@@ -1,12 +1,8 @@
-@import url("https://groot.mailerlite.com/assets/plugins/groot/modules/includes/groot_fonts/import.css?version=1654000");
-
-    /* LOADER */
-    .ml-form-embedSubmitLoad {
+.ml-form-embedSubmitLoad {
       display: inline-block;
       width: 20px;
       height: 20px;
     }
-
     .g-recaptcha {
     transform: scale(1);
     -webkit-transform: scale(1);
